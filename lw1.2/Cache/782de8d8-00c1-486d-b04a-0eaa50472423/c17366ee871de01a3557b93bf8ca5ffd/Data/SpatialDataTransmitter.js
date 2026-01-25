@@ -1,0 +1,1 @@
+//@input Asset.InternetModule  internetrModule

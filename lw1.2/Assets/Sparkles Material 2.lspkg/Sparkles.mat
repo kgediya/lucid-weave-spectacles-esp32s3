@@ -1,0 +1,153 @@
+- !<Material/e0528300-3a75-4a9c-a91b-d0bcd3dadbd2>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> dcfe7081-d750-4b65-83c6-0465e7c6d54e
+- !<PassInfo/dcfe7081-d750-4b65-83c6-0465e7c6d54e>
+  CachedProperties:
+    - Port_Depth_N004:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Dimension_N021:
+        typeIdx: 3
+        value: {x: 1.000000, y: 1.000000}
+    - Port_Dimension_N022:
+        typeIdx: 3
+        value: {x: 1.000000, y: 1.000000}
+    - Port_Dimension_N023:
+        typeIdx: 3
+        value: {x: 1.000000, y: 1.000000}
+    - Port_FinalColor1_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor2_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor3_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_GSplatPointSize_N004:
+        typeIdx: 1
+        value: 0.000000
+    - Port_GSplatRotation_N004:
+        typeIdx: 5
+        value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    - Port_GSplatScale_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_LODValue_N026:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Mask_N025:
+        typeIdx: 1
+        value: 1.000000
+    - Port_PrevWorldPosition_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_RayDirection_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_RayOrigin_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_UVCoord_N026:
+        typeIdx: 3
+        value: {x: 0.000000, y: 0.000000}
+    - Port_Value3_N007:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Value4_N007:
+        typeIdx: 1
+        value: 0.000000
+    - Port_WorldNormal_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_WorldPosition_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_WorldTangent_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - mainColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: Add
+  Properties:
+    Port_Center_N021:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Center_N022:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Center_N023:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Default_N031:
+      typeIdx: 1
+      value: 1.000000
+    Port_Input0_N036:
+      typeIdx: 1
+      value: 300.000000
+    Port_Input1_N002:
+      typeIdx: 1
+      value: 0.900000
+    Port_Input1_N009:
+      typeIdx: 1
+      value: 1.100000
+    Port_Input1_N011:
+      typeIdx: 1
+      value: 0.010000
+    Port_Input1_N014:
+      typeIdx: 1
+      value: -0.010000
+    Port_Input1_N018:
+      typeIdx: 3
+      value: {x: 1.000000, y: 0.000000}
+    Port_Input1_N032:
+      typeIdx: 1
+      value: -1.000000
+    Port_Input1_N037:
+      typeIdx: 1
+      value: 300.000000
+    Port_Input1_N038:
+      typeIdx: 3
+      value: {x: 1.000000, y: 0.000000}
+    Port_Rotation_N021:
+      typeIdx: 1
+      value: 45.000000
+    Port_Rotation_N022:
+      typeIdx: 1
+      value: 45.000000
+    Port_Rotation_N023:
+      typeIdx: 1
+      value: 45.000000
+    Port_Value4_N024:
+      typeIdx: 1
+      value: 1.000000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    Tweak_N30:
+      typeIdx: 2
+      value: true
+    intensity:
+      typeIdx: 1
+      value: 0.830000
+    noiseScale:
+      typeIdx: 1
+      value: 0.000000
+    speed:
+      typeIdx: 1
+      value: 2.000000
+  Pass: !<reference> 975fb28b-03a0-4a5b-96f6-c001068fc7e9

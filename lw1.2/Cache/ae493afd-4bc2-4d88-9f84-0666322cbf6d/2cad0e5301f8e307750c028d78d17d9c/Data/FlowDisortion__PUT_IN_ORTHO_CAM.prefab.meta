@@ -1,0 +1,156 @@
+- !<AssetImportMetadata/74656e37-9d56-42dd-a01d-3953a9d7d6d6>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> e37c6999-2173-4062-a9e0-4e4da5516f34
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> e37c6999-2173-4062-a9e0-4e4da5516f34
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 621e9721-d61f-4c78-b843-40f7e47a59cc
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/130b27c3-4eb6-4432-b106-eede7df2f7f7>
+  PrefabRemaps:
+    []
+  Name: FlowDisortion__PUT_IN_ORTHO_CAM
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8a3f1f03-a78f-4683-be8b-160fa428ec62
+  Components:
+    - !<own> 6fa66460-5301-498a-b315-5a46dd3f616a
+    - !<own> 7a73b703-4063-407d-a7f6-9e09481aa8a7
+- !<ObjectPrefabAssetData/621e9721-d61f-4c78-b843-40f7e47a59cc>
+  SourceRemaps:
+    - 2402723f-afdb-4d2b-9b16-7120e79f90a0: 130b27c3-4eb6-4432-b106-eede7df2f7f7
+    - 45f3645c-3a8c-4d3b-9130-2e502e60ec8a: e871b155-2f67-4294-8246-1c8eaa934011
+    - 5dd9e617-26be-49d0-8655-1359500321d3: 9070d05e-f016-4ea5-a6ce-153a592593b7
+    - 96c4cad9-f2c6-42b5-9ce3-d14b564182ed: 6fa66460-5301-498a-b315-5a46dd3f616a
+    - bc0e3859-c189-456b-9e82-74295093cd82: 8a3f1f03-a78f-4683-be8b-160fa428ec62
+    - dc7c9d2c-e09d-499e-ae06-3442b63ad48e: 7a73b703-4063-407d-a7f6-9e09481aa8a7
+    - e37c6999-2173-4062-a9e0-4e4da5516f34: 8f2e51f0-3f48-4129-8a8a-2be966402e4c
+  SourceState: !<own> 8f2e51f0-3f48-4129-8a8a-2be966402e4c
+- !<ScreenRegionComponent/6fa66460-5301-498a-b315-5a46dd3f616a>
+  PrefabRemaps:
+    []
+  Name: Screen Region
+  Enabled: true
+  ScreenRegionType: FullFrame
+  ResizeWithKeyboard: false
+- !<ScreenTransform/7a73b703-4063-407d-a7f6-9e09481aa8a7>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/8a3f1f03-a78f-4683-be8b-160fa428ec62>
+  PrefabRemaps:
+    []
+  Name: FlowDistortionImg
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e871b155-2f67-4294-8246-1c8eaa934011
+    - !<own> 9070d05e-f016-4ea5-a6ce-153a592593b7
+- !<ObjectPrefab/8f2e51f0-3f48-4129-8a8a-2be966402e4c>
+  PackagePath: FlowDisortion__PUT_IN_ORTHO_CAM
+  objects:
+    - !<own> 130b27c3-4eb6-4432-b106-eede7df2f7f7
+  LazyLoading: false
+  RetainAssets: true
+- !<Image/9070d05e-f016-4ea5-a6ce-153a592593b7>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5a9bec78-a604-4042-b0a8-9db5a292997f
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScreenTransform/e871b155-2f67-4294-8246-1c8eaa934011>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000

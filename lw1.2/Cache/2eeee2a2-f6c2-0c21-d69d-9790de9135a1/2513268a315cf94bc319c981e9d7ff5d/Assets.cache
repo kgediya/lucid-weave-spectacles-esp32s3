@@ -1,0 +1,457 @@
+- !<AssetCache>
+  AssetFiles:
+    4755a955-896f-4d16-bc66-d51c1561a74c: 2eeee2a2-f6c2-0c21-d69d-9790de9135a1/2513268a315cf94bc319c981e9d7ff5d/Data/FlowDistortion.ss_graph
+  Assets:
+    - !<ShaderGraphPass/4755a955-896f-4d16-bc66-d51c1561a74c>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_C_N059:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Center_N075:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Center_N076:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_D_N059:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_Dimension_N075:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Dimension_N076:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_GSplatRotation_N004:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        Port_GSplatScale_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Input0_N056:
+          typeIdx: 1
+          value: 2.000000
+        Port_Input1_N020:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.000000}
+        Port_Input1_N024:
+          typeIdx: 1
+          value: 0.500000
+        Port_Input1_N036:
+          typeIdx: 1
+          value: 3.000000
+        Port_Input1_N045:
+          typeIdx: 1
+          value: 1000.000000
+        Port_Input1_N068:
+          typeIdx: 1
+          value: 0.500000
+        Port_Input1_N069:
+          typeIdx: 1
+          value: 0.500000
+        Port_Input1_N080:
+          typeIdx: 1
+          value: 1.100000
+        Port_Input1_N081:
+          typeIdx: 1
+          value: -0.150000
+        Port_Input1_N086:
+          typeIdx: 1
+          value: 0.300000
+        Port_Input1_N087:
+          typeIdx: 1
+          value: 4.000000
+        Port_Input1_N101:
+          typeIdx: 1
+          value: 90.000000
+        Port_Input1_N102:
+          typeIdx: 1
+          value: 6.000000
+        Port_Input2_N020:
+          typeIdx: 1
+          value: 0.500000
+        Port_Input2_N091:
+          typeIdx: 1
+          value: 1.000000
+        Port_LODValue_N001:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N005:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N013:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N019:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N053:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N073:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N088:
+          typeIdx: 1
+          value: 0.000000
+        Port_PrevWorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_RangeMaxA_N027:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N030:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N033:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N034:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N038:
+          typeIdx: 1
+          value: 0.100000
+        Port_RangeMaxA_N070:
+          typeIdx: 1
+          value: 0.500000
+        Port_RangeMaxA_N071:
+          typeIdx: 1
+          value: 0.500000
+        Port_RangeMaxB_N027:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxB_N030:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxB_N033:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxB_N034:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxB_N038:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMaxB_N070:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMaxB_N071:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N027:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N030:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N033:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N034:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N038:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N070:
+          typeIdx: 1
+          value: 0.450000
+        Port_RangeMinA_N071:
+          typeIdx: 1
+          value: 0.450000
+        Port_RangeMinB_N027:
+          typeIdx: 1
+          value: -1.000000
+        Port_RangeMinB_N030:
+          typeIdx: 1
+          value: -1.000000
+        Port_RangeMinB_N033:
+          typeIdx: 1
+          value: -0.500000
+        Port_RangeMinB_N034:
+          typeIdx: 1
+          value: -0.500000
+        Port_RangeMinB_N038:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMinB_N070:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMinB_N071:
+          typeIdx: 1
+          value: 1.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_UVCoord_N088:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Value3_N043:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N051:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N043:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N051:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Base Texture
+            mType: Property
+            mName: baseTex
+            mWidget: texture_group
+            mHint: "Property: baseTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Distortion
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Distortion Texture
+            mType: Property
+            mName: distortTex
+            mWidget: texture_group
+            mHint: "Property: distortTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Distortion Tex Scale
+            mType: Property
+            mName: distortScale
+            mWidget: spinbox
+            mHint: "Property: distortScale"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Flow Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Flow Angle
+            mType: Property
+            mName: angle
+            mWidget: slider
+            mHint: "Property: angle"
+            mMin: 0.000000
+            mMax: 360.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Flow Texture
+            mType: Property
+            mName: flowTexture
+            mWidget: texture_group
+            mHint: "Property: flowTexture"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Flow Tex Scale
+            mType: Property
+            mName: flowScale
+            mWidget: spinbox
+            mHint: "Property: flowScale"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Flow Speed
+            mType: Property
+            mName: speed
+            mWidget: slider
+            mHint: "Property: speed"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Strength
+            mType: Property
+            mName: strength
+            mWidget: slider
+            mHint: "Property: strength"
+            mMin: 0.000000
+            mMax: 3.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Opacity
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Opacity Mask
+            mType: Define
+            mName: Tweak_N90
+            mWidget: checkbox
+            mHint: "Define: Tweak_N90"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Opacity Texture
+            mType: Property
+            mName: opacityTex
+            mWidget: texture_group
+            mHint: "Property: opacityTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: 2eeee2a2-f6c2-0c21-d69d-9790de9135a1/2513268a315cf94bc319c981e9d7ff5d/Data/bf73d32/FlowDistortion.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 2513268a315cf94bc319c981e9d7ff5d
+  FileHash: 8cf666a230d5f86340e4422d042ab0a8
+  NativePackageItems:
+    []

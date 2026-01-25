@@ -1,0 +1,108 @@
+- !<AssetImportMetadata/4682adc5-cf5a-e26c-8003-35d3d5aa3416>
+  ImportedAssetIds:
+    .hidden/lambert1: !<reference> aeb07b4a-9891-47fb-a55b-1a8b48026d50
+    .hidden/white: !<reference> 0984184d-9dfa-481d-a8a7-60dfdbc8d566
+    004b051c3bbac98d: !<reference> fabeec92-96c1-4ee0-bacd-bb7271ad736f
+    039e7e4d071e2c7c: !<reference> 0a816524-64ef-4b01-94a4-3b93cafbbae5
+    0584e6634dc45c40: !<reference> 34577b37-f7fc-4574-a48c-d7f539b0bdb8
+    06f1064190e62605: !<reference> 8f7d9e13-ee16-4188-991b-156dad3fa7ac
+    0924e1bf39607193: !<reference> 3ca102cc-d0ef-4132-a2b0-684c8c08b63d
+    0d36b20e7545eee9: !<reference> 5b2cdf36-f7b1-4ff2-ac75-de0b22afde1f
+    13ae93f405b54db8: !<reference> 0de32b79-1050-4eba-ba16-c3194a4aebbd
+    15f65ce9b01ac568: !<reference> 62f90339-9178-42a9-8655-0ee2b17e3093
+    1baabd13349d4ab5: !<reference> ebc3800e-d1d1-416a-a153-034cf02b57be
+    1cb2391dc1e834e1: !<reference> c0d95ebe-fd72-4c34-9460-4dd755eb07d0
+    1e696c0c6742b60a: !<reference> a3fc9d0c-ddd9-47c1-9586-f917ef8092b5
+    26421e562f396b3c: !<reference> 7c687c16-751b-480c-8069-684d1dcfa08e
+    2a4a6f0c28271ba6: !<reference> e3df5431-2c7e-456c-b8b1-5000dc53b6c8
+    2c425588ae856a8e: !<reference> 31aeb8e2-b8ba-4413-ad8c-f80ed9d8face
+    307081ceb94c7fe7: !<reference> 90df2d0b-74e9-4ea8-8001-bde93e1c8f7c
+    3c4f25575d4d2170: !<reference> 43267578-6f5c-44cc-85da-af79254b9d64
+    42ee41a0b36b35f0: !<reference> dfa982fe-885c-429d-b2cb-b40df38f3ec4
+    43b015e2791676f9: !<reference> 87cf3ebb-67fa-4657-b671-5b7268383cc8
+    4742e9972c0e2ea6: !<reference> 95c4fc92-dfaf-4f2e-905c-3f74dbf1ca5f
+    4a36f59168d226d6: !<reference> 664af427-a8e2-428c-8962-39438dd775ff
+    5148fdabc22ed142: !<reference> f60a4bb2-767c-4e50-b771-07f2264b796b
+    57245ae1c3a98928: !<reference> c17b9400-c763-4e52-a968-44eb809d5dc9
+    5ac77427db935234: !<reference> fc896a2a-f99e-42f7-85f4-059d45ceebae
+    5bc563a7768dedd7: !<reference> 9f895339-42c6-4e31-926e-8f90ae0f8af3
+    5d8ebc9ff325c079: !<reference> 9590d7fa-1238-4cd8-a1bb-da1f8359be04
+    5ee6f7cae4f6a48a: !<reference> 0843a812-0bd9-4c5a-bbd3-c6f23d9aec56
+    68aafa38a28c2196: !<reference> 1e05390f-2c46-46dd-a9f7-8fff87c4f205
+    728fa8afe7ec57fa: !<reference> e4d954d4-d131-4e31-a5b3-b8bf20719683
+    78aa5206ac626e88: !<reference> bafe402e-3b7a-4f4d-9217-90cf9982ffc0
+    79ab1ece5afab3a9: !<reference> 4a3f5efe-6f88-41c6-90cf-caca0e65dc9e
+    7a0dd5cd69df73fa: !<reference> 7ce46a5c-054f-472a-83c5-ffa2a62f205a
+    8c94d36bdba20046: !<reference> dab258c6-5fe8-4cd7-8f33-7775ae90356b
+    Animations/BaseLayer: !<reference> 080f566f-c88f-4a3f-b8f3-9ada460f9562
+    Materials/lambert1: !<reference> e1f5af56-17e7-4d8e-8acc-d270845e6a8d
+    Materials/lambert1|lambert1|GraphPassInfo: !<reference> 99fbac7f-fc39-4071-b6bc-d539efa75e8e
+    Meshes/HandBase: !<reference> a9993304-b603-49e5-a3e8-fc79ad9cc556
+    Meshes/HandBaseWrist: !<reference> 388fb555-f521-4b7a-a72f-10dddaf5fcbb
+    Meshes/HandTI: !<reference> c3f4f538-2594-40f3-be1a-7df3d53a11fb
+    Scene: !<reference> 87e281d0-33ed-485a-bc06-f1382be123c4
+    ac4584f67e0d7463: !<reference> ecf0ad64-fd84-4bb1-971d-69efc4bf9bdb
+    b26be857661b99e7: !<reference> 5ee5ef61-0bed-41ae-8758-8c7498983c32
+    b7b565b1f64dd557: !<reference> 23b0170d-b222-4a78-907c-0ac0f2f5441f
+    bc9767a09bf56ce5: !<reference> 0a801800-06e6-4da9-82cc-c70fe2e0d991
+    be53132e8aeb033d: !<reference> bfd76b9c-c15d-41c8-ba1f-9a63ba7aae85
+    c0b0c6a0f637e4a5: !<reference> ae3dd290-8073-41b0-b0e1-445ab37bbf7a
+    c4dc6131c0d4ecc1: !<reference> c9215640-62f3-4565-89da-547b6bacd1c5
+    c91f2b0d8191c2ae: !<reference> b5a9b50d-cee3-4386-9e70-e9ba64ad0c0a
+    ce66fedd588ce03d: !<reference> b57b93aa-58c6-4a06-bca6-10cb48ffedb3
+    ce86642ef7befbb7: !<reference> 6bf4b9d7-ca30-4c8c-9cdf-a80e4c451319
+    cea12081e75b45da: !<reference> 6525a82a-4cc9-4a23-b754-bec2eea8f32b
+    cfe42f48ec930a82: !<reference> 7af612d5-69fd-406c-a820-45e12c3caef4
+    df668e9152b91c91: !<reference> e41b1cac-a57f-4e49-bd24-d2069d4ac4ea
+    e18143d23857fdd6: !<reference> d73ffcd3-f762-45f2-a290-201aebcb6c4b
+    e1ddde9b3070fbc6: !<reference> d14809fa-9f78-486d-9f01-36cf02b40fb8
+    e2995b4cb10987c3: !<reference> 3596e017-938b-4fd2-bfef-18b654b29c62
+    e90420bbc65975ea: !<reference> 8e6c58fb-43e5-43c8-89f8-8533048d6926
+    f3707fcbe8715e1f: !<reference> da48bb05-9022-4296-b917-181e037adf58
+    fc93d29516853e44: !<reference> 0e7b3fb7-07d2-40d2-8129-685f46a76472
+    ff16d6be0dd9423d: !<reference> 770cc44c-c97b-40f3-aa52-632c7388c302
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> 87e281d0-33ed-485a-bc06-f1382be123c4
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> e812037e-350f-4b00-8fee-99b21273ce9f
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: false
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<ObjectPrefabAssetData/e812037e-350f-4b00-8fee-99b21273ce9f>
+  Prototype: !<ObjectOwner/aa5796d6-c591-49bd-a720-d6ed737b2119>
+    PackagePath: ""
+    objects:
+      []

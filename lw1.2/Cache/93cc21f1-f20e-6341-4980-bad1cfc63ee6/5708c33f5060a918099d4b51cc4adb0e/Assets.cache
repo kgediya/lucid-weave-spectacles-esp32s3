@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d358b020-f637-4480-9797-55b54ee1f763: 93cc21f1-f20e-6341-4980-bad1cfc63ee6/5708c33f5060a918099d4b51cc4adb0e/Data/distort_tex_v01.jpg
+  Assets:
+    - !<FileTexture/d358b020-f637-4480-9797-55b54ee1f763>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 5708c33f5060a918099d4b51cc4adb0e
+  FileHash: ed3c4c7cc83dc0302b9958c464acdb32
+  NativePackageItems:
+    []

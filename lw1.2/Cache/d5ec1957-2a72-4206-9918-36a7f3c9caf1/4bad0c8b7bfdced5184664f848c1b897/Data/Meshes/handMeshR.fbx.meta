@@ -1,0 +1,97 @@
+- !<AssetImportMetadata/2a83313b-4888-33f6-11a5-f58a72ca131f>
+  ImportedAssetIds:
+    .hidden/Default OBJ.004: !<reference> d118176a-30d2-493f-a984-0feee98eea30
+    .hidden/white: !<reference> b6bc9bf6-9e5d-4121-92eb-748ee5be83c9
+    039e7e4d071e2c7c: !<reference> 0f6e5d76-d12f-42e1-91b5-8a94c632f7c7
+    0d36b20e7545eee9: !<reference> 74465657-0d25-4834-b5b6-9c28dfbebbc8
+    13ae93f405b54db8: !<reference> 12b919af-e065-4c51-abd4-26e5dddfec39
+    15f65ce9b01ac568: !<reference> 6fe9519f-fa8e-49b2-bc85-2addf40c416f
+    1cb2391dc1e834e1: !<reference> a4566a93-7b31-40f4-807a-60cee464bc5a
+    1e696c0c6742b60a: !<reference> e562b6e5-ca43-4dc8-86ee-981ca312b119
+    26421e562f396b3c: !<reference> 68bb3df8-4048-4fb1-9c3d-ce03996b295b
+    2a4a6f0c28271ba6: !<reference> 55738dc9-8842-4a29-84e3-d001a972550e
+    42ee41a0b36b35f0: !<reference> f8ef6e4b-f8e9-463e-98a3-a630ea978755
+    43b015e2791676f9: !<reference> 880e3dd7-8b73-4fa9-b4d7-343b75c378bc
+    4a36f59168d226d6: !<reference> 43c7716c-38d8-45a1-9892-54ed33d75bc6
+    57245ae1c3a98928: !<reference> 7edf1745-baa3-414f-883a-ee622d36bf8b
+    5bc563a7768dedd7: !<reference> a4a9a5d5-a5c7-4645-bcca-a2c8e39a8844
+    5d8ebc9ff325c079: !<reference> 958d924b-0516-4390-a912-a0d53a184539
+    5ee6f7cae4f6a48a: !<reference> d46f0949-1860-44c0-a06c-42c0193096cf
+    68aafa38a28c2196: !<reference> c20f1aee-b027-40f2-9c50-c22a6122b6c8
+    728fa8afe7ec57fa: !<reference> 3f42b8e3-5c7f-4296-885d-26d69dfb02d4
+    78aa5206ac626e88: !<reference> 0d2b42a6-05b4-4b69-9abe-74fff3d4e159
+    79ab1ece5afab3a9: !<reference> 9fe146f5-ce50-45c1-aa0a-8670324d409e
+    7a0dd5cd69df73fa: !<reference> 81a1397a-003e-4b2a-aff7-5287c6d59b19
+    8c94d36bdba20046: !<reference> b266d953-fe7c-4bc5-a422-a0455b610449
+    9c4f3a97bc4e631e: !<reference> 3d6a4de2-9729-405d-9ea6-b08159ef3167
+    Animations/BaseLayer: !<reference> 2f1411d1-c944-409a-b413-44e5720eca39
+    Materials/Default OBJ.004: !<reference> 743ea59b-1dff-40fe-8f12-2e04eb30ffa7
+    Materials/Default OBJ.004|Default OBJ.004|GraphPassInfo: !<reference> c6fe3107-0dc0-4989-ba27-9e76b0b18e80
+    Materials/Default OBJ.005: !<reference> b935647a-4c1c-45bf-8982-17bb04bab4cf
+    Materials/Default OBJ.005|Default OBJ.005|GraphPassInfo: !<reference> fe6511c4-676c-43f3-ab16-a3b792303459
+    Materials/handTI2: !<reference> c9a96a50-860d-4430-b27a-9392a665532a
+    Materials/handTI2|handTI2|GraphPassInfo: !<reference> 37c339dc-27a8-4196-9bb2-7f0392ed2a7b
+    Meshes/HandBase: !<reference> 96a94771-9c90-4753-9a46-f824f27c9ad1
+    Meshes/HandBaseWrist: !<reference> 22729f5e-e936-4d8e-870d-1b4ac8d579e8
+    Meshes/HandTI: !<reference> d7d524d0-0cf1-4f9e-a0c5-d0a6a5df9ce6
+    Scene: !<reference> acbfc4c1-8667-4611-bf6e-74ff3cd2612e
+    ac4584f67e0d7463: !<reference> c3097107-c45d-4891-bc82-e99be4b3091f
+    b26be857661b99e7: !<reference> 6e2c8f43-b8cb-4590-b12c-fee40f13587b
+    b7b565b1f64dd557: !<reference> b4159e56-7b75-4349-93a6-1c89fee13152
+    bc9767a09bf56ce5: !<reference> f3085f30-5121-4ff5-aac8-c41a07094b49
+    be53132e8aeb033d: !<reference> 32218ed0-73a4-42e9-a203-73c454d30c1e
+    c4dc6131c0d4ecc1: !<reference> d702eb85-11a0-417b-bfab-831f0523d546
+    c91f2b0d8191c2ae: !<reference> e074bc96-daa8-4f7b-878a-29e673e62439
+    cd397a76f1948f25: !<reference> f2befb28-8498-43f2-8401-65a7192a1018
+    cea12081e75b45da: !<reference> 1dd41f4a-3435-42ec-a61f-1dff74d9f661
+    cfe42f48ec930a82: !<reference> a487f7fb-c7c5-45db-9560-3ff62c01f214
+    df668e9152b91c91: !<reference> 00978690-02d4-4543-9141-103089241ed8
+    e1ddde9b3070fbc6: !<reference> 39d6863f-84ef-4cbc-823f-38aa292fdb2f
+    e2995b4cb10987c3: !<reference> 72c1700c-481c-4361-9e01-f0637ce7f0b6
+    e90420bbc65975ea: !<reference> 93ca9c6b-f813-4da0-9b8e-c2c4257a8274
+    ff16d6be0dd9423d: !<reference> 8f074317-2223-4209-9ab1-3adfeb356cb8
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> acbfc4c1-8667-4611-bf6e-74ff3cd2612e
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 18c0dc9e-2658-4e96-94c0-5a4c7b302082
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: false
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<ObjectPrefabAssetData/18c0dc9e-2658-4e96-94c0-5a4c7b302082>
+  Prototype: !<ObjectOwner/a3bb4d7c-8af6-4daf-8a8c-81c80cfbdefe>
+    PackagePath: ""
+    objects:
+      []

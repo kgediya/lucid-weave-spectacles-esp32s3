@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/c502785c-9acc-47cf-8f16-bbe9db34b8a9>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 9b5699b7-4375-4931-80cf-6f97eb9a08b2
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 9b5699b7-4375-4931-80cf-6f97eb9a08b2
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 8528f31f-37be-4916-9efd-39d6bf826845
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/8528f31f-37be-4916-9efd-39d6bf826845>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ef419f9c-58d3-4dd6-815d-02b9a7255019
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    followPosition: false
+    followRotation: false
+    localOffset: false
+    maxSpeed: false
+    offsetInWorld: false
+    positionSharpness: false
+    rotationSharpness: false
+    target: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - target: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      followPosition: true
+      followRotation: false
+      positionSharpness: !<float> 10.000000
+      rotationSharpness: !<float> 12.000000
+      localOffset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      maxSpeed: !<float> 0.000000
+      offsetInWorld: true
+  ScriptTypes:
+    -
+      {}

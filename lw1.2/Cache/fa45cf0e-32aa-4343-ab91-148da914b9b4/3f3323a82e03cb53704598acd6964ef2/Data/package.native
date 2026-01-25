@@ -1,0 +1,37 @@
+- !<NativePackageDescriptor/27654f99-a03a-46fc-b292-3715d4f5377b>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 1
+    build: 25102815
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: "Trail VFX A technique for creating the appearance of connected trails from individual particles. For more information, check out the writeup: Click here to learn more about VFX Editor Click here to learn more about the Trail VFX"
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 76
+  ExportUid: 96f6cbbf-1a94-4905-ac3f-38a719062508
+  ComponentUid: 359da005-b1cc-4437-b5cb-d5bdb43c9c87
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags: []
+  Attachments: []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 330
+  clientVersion: 13.6000004

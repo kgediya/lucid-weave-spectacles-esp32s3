@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0ed9965f-8b32-44ff-9a9e-399540b0f68a: d21bb99c-a24a-ffd0-846d-69fbf7a811a9/4c4f1a3c880b2a0082b89f3c6fec1ea0/Data/flowmap.png
+  Assets:
+    - !<FileTexture/0ed9965f-8b32-44ff-9a9e-399540b0f68a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 4c4f1a3c880b2a0082b89f3c6fec1ea0
+  FileHash: 033713d9ca1933e6d168b2af0516936c
+  NativePackageItems:
+    []

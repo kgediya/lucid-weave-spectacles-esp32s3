@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    48da3861-079e-4688-b081-253d8c86f69d: 7f089f51-e917-2cbd-b247-55011cec32ff/d28e3a7429adad4419d12be0c83d5551/Data/hand_color_mask.png
+  Assets:
+    - !<FileTexture/48da3861-079e-4688-b081-253d8c86f69d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: d28e3a7429adad4419d12be0c83d5551
+  FileHash: 6fd631b30ee2f55b9e7ba884cdbbd0be
+  NativePackageItems:
+    []

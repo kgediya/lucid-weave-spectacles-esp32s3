@@ -1,0 +1,64 @@
+- !<AssetImportMetadata/782de8d8-00c1-486d-b04a-0eaa50472423>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 12aaf720-3580-4e88-8beb-4349f349f00d
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 12aaf720-3580-4e88-8beb-4349f349f00d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7ddaadbf-ba16-477a-ac59-3b50582a282d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/7ddaadbf-ba16-477a-ac59-3b50582a282d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 16f88b4c-7c5d-4b83-b13a-656891bf9b92
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    debugLogs: false
+    jointsHz: false
+    jointsQuantizeMM: false
+    leftHandRig: false
+    leftObjectTracking3D: false
+    pinchThresholdM: false
+    rightHandRig: false
+    rightObjectTracking3D: false
+    sendHz: false
+    sendJointRotations: false
+    sendJoints: false
+    supabaseProject: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - supabaseProject: !<reference.SupabaseProject> 00000000-0000-0000-0000-000000000000
+      leftObjectTracking3D: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      rightObjectTracking3D: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      leftHandRig: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rightHandRig: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      sendHz: !<float> 25.000000
+      pinchThresholdM: 0.030000
+      debugLogs: true
+      sendJoints: true
+      jointsHz: !<float> 15.000000
+      jointsQuantizeMM: 2
+      sendJointRotations: false
+  ScriptTypes:
+    -
+      {}
