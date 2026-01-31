@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #000000;
+  font-family: 'Rajdhani', sans-serif;
+  color: #fff;
+  cursor: none;
+}
+
+#ui-layer { transition: opacity 1.5s; opacity: 1; }
+.hidden { opacity: 0 !important; pointer-events: none; }
+
+#hud {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  pointer-events: none;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  pointer-events: auto;
+}
+
+h1 {
+  margin: 0;
+  font-size: 32px;
+  letter-spacing: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #9D00FF, #FF0077);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.8;
+}
+
+.connect-btn {
+  background: rgba(20, 0, 40, 0.6);
+  border: 1px solid #FF0077;
+  color: #FF0077;
+  padding: 12px 50px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: 0.5s;
+  letter-spacing: 4px;
+}
+.connect-btn:hover {
+  background: #FF0077;
+  color: #fff;
+  box-shadow: 0 0 50px #FF0077;
+}
+
+.scale-guide-x {
+  position: absolute;
+  bottom: 100px;
+  left: 15%;
+  right: 15%;
+  height: 2px;
+  display: flex;
+  justify-content: space-between;
+  pointer-events: none;
+  background: linear-gradient(90deg, transparent, rgba(157,0,255,0.2), transparent);
+}
+
+.note-marker-x {
+  position: relative;
+  width: 1px;
+  height: 15px;
+  background: rgba(255, 0, 119, 0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: -6px;
+  transform: skewX(-20deg);
+  transition: all 0.5s;
+}
+.note-marker-x::after {
+  content: attr(data-note);
+  position: absolute;
+  bottom: -30px;
+  font-size: 12px;
+  color: #9D00FF;
+  transition: 0.5s;
+  letter-spacing: 2px;
+  font-weight: 400;
+  transform: skewX(20deg);
+  opacity: 0.7;
+}
+.note-marker-x.active {
+  background: #FF0077;
+  height: 50px;
+  top: -24px;
+  box-shadow: 0 0 40px #FF0077;
+  width: 2px;
+}
+.note-marker-x.active::after {
+  color: #fff;
+  font-size: 24px;
+  text-shadow: 0 0 30px #FF0077;
+  bottom: -60px;
+  opacity: 1;
+}
+
+.instructions {
+  position: absolute;
+  left: 40px;
+  bottom: 40px;
+  font-size: 10px;
+  color: #444;
+  letter-spacing: 4px;
+  font-weight: 700;
+  text-transform: uppercase;
+}

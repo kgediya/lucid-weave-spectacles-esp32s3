@@ -1,0 +1,95 @@
+############################################
+# GLOBAL / OS
+############################################
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+############################################
+# LENS STUDIO (DO NOT OVERRIDE INTERNAL IGNORE)
+# Respect Lens Studio 4.40+ behavior
+############################################
+
+# User-specific Lens Studio preferences & caches
+Lens/**/PluginsUserPreferences/
+Lens/**/.cache/
+Lens/**/Cache/
+Lens/**/DerivedData/
+Lens/**/Temp/
+
+# Autosaves / backups
+Lens/**/~*
+Lens/**/*.bak
+Lens/**/*.tmp
+
+# Local workspace & machine-specific data
+Lens/**/Workspaces/local/
+Lens/**/Workspaces/.local/
+
+############################################
+# JAVASCRIPT / WEB CLIENT
+############################################
+
+# Node / package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Web client secrets
+Web/Client/config.js
+Web/Client/.env
+Web/Client/.env.local
+Web/Client/.env.production
+
+############################################
+# ESP32 / ARDUINO
+############################################
+
+# Arduino build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.a
+*.out
+
+# PlatformIO (if used later)
+.pio/
+.platformio/
+
+# ESP32 secrets
+Firmware/ESP32/secrets.h
+
+############################################
+# PYTHON (if used for tooling)
+############################################
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+############################################
+# EDITORS / IDEs
+############################################
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+############################################
+# GIT LFS TEMP
+############################################
+.lfs/

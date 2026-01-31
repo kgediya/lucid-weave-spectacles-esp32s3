@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+  <title>LUCID WEAVE // CINEMATIC</title>
+
+  <link rel="stylesheet" href="./style.css" />
+
+  <!-- Config (ignored in git) -->
+  <script src="./config.js"></script>
+
+  <!-- Libraries via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/EffectComposer.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/RenderPass.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/ShaderPass.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/shaders/CopyShader.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/shaders/LuminosityHighPassShader.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/UnrealBloomPass.js"></script>
+</head>
+
+<body>
+  <div id="canvas-container"></div>
+
+  <div id="ui-layer">
+    <div id="scale-overlay-x" class="scale-guide-x"></div>
+
+    <div id="hud">
+      <div class="header">
+        <h1>LUCID WEAVE</h1>
+        <button class="connect-btn" id="btn-connect">ENTER THE VOID</button>
+      </div>
+    </div>
+
+    <div class="instructions">X: SCALE // Y: RESONANCE // F: FULLSCREEN</div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
